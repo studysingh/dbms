@@ -1,0 +1,8 @@
+.footerContainer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+}
+
+.footerContainer .text-muted {
+  color: #6c757d;
+}
